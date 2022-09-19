@@ -1,1 +1,1 @@
-# neurostartup
+# NeuroStartup
